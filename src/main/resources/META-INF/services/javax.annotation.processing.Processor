@@ -1,0 +1,4 @@
+com.feng.deepintojvm.annotation.src.annotation.AllArgsConstructor
+com.feng.deepintojvm.annotation.src.annotation.NoArgsConstructorProcessor
+com.feng.deepintojvm.annotation.src.annotation.BuilderProcessor
+com.feng.deepintojvm.annotation.src.annotation.DataProcessor
